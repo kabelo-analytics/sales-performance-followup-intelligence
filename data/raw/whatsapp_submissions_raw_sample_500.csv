@@ -1,0 +1,501 @@
+message_id,message_timestamp,sales_date_claimed,rep_name,rep_id,store,region,raw_text,channel
+MSG001289,2025-08-12 21:01:00,2025-08-12,Rep 50,,Pavilion,KZN,"Pavilion - units 4 | revenue R 9,136",WhatsApp
+MSG003316,2025-08-30 16:13:00,2025-08-30,Rep 54,REP054,Stellenbosch,Western Cape,Stellenbosch 9 units R15 706,WhatsApp
+MSG001296,2025-08-12 18:15:00,2025-08-12,Rep 57,REP057,Secunda,Mpumalanga,"Hi, Secunda: unit=8, revenue=R13024",WhatsApp
+MSG003587,2025-09-01 18:12:00,2025-09-01,Rep 119,REP119,Centurion,Gauteng,Centurion 9 u 16.9k,WhatsApp
+MSG005349,2025-09-17 17:54:00,2025-09-17,Rep 75,REP075,Durban CBD,KZN,"Hi, Durban CBD: units=7, rev=R15 258",WhatsApp
+MSG001610,2025-08-16 08:36:00,2025-08-14,Rep 23,REP023,Mall of Africa,Gauteng,Mall of Africa: R13 567 and 7 units,WhatsApp
+MSG005531,2025-09-19 18:56:00,2025-09-19,Rep 38,REP038,Pavilion,KZN,Pavilion - unit 10 | sales 26.5k,WhatsApp
+MSG009982,2025-10-28 21:25:00,2025-10-28,Rep 112,REP112,Bedfordview,Gauteng,"Bedfordview: R8,088 and 4 units",WhatsApp
+MSG012470,2025-11-20 18:04:00,2025-11-20,Rep 8,REP008,Gateway,KZN,"Hi, Gateway: u=7, revenue=R14,645",WhatsApp
+MSG006689,2025-09-29 18:39:00,2025-09-29,Rep 75,REP075,Durban CBD,KZN,Daily sales Durban CBD: 2 (unit) / rev R6 099,WhatsApp
+MSG004302,2025-09-08 20:37:00,2025-09-08,Rep 35,REP035,Eastgate,Gauteng,"Hi, Eastgate: u=5, revenue=R8090",WhatsApp
+MSG004634,2025-09-11 19:27:00,2025-09-11,Rep 35,,Eastgate,Gauteng,"Eastgate ✅ 4 u ✅ R9,252",WhatsApp
+MSG004485,2025-09-09 18:05:00,2025-09-09,Rep 108,REP108,Kroonstad,Free State,"Hi, Kroonstad: u=0, revenue=0",WhatsApp
+MSG004551,2025-09-10 17:18:00,2025-09-10,Rep 63,REP063,Durban CBD,KZN,"Daily sales Durban CBD: 13 (u) / rev R20,352",WhatsApp
+MSG003597,2025-09-02 20:26:00,2025-09-02,Rep 9,REP009,Somerset West,Western Cape,"Sales update Somerset West -> 9 units, revenue R14,828",WhatsApp
+MSG000421,2025-08-04 19:08:00,2025-08-03,Rep 87,REP087,Claremont,Western Cape,Daily sales Claremont: 7 (unit) / revenue 18.0k,WhatsApp
+MSG005583,2025-09-19 19:41:00,2025-09-19,Rep 94,REP094,Pavilion,KZN,"Hi, Pavilion - units=7, sales=R9465",WhatsApp
+MSG011738,2025-11-13 18:19:00,2025-11-13,Rep 59,REP059,George,Western Cape,"Hi, George: units=6, sales=R 11,852",WhatsApp
+MSG001649,2025-08-15 17:42:00,2025-08-15,Rep 70,REP070,George,Western Cape,George - units 10 | rev 13992,WhatsApp
+MSG000432,2025-08-04 18:55:00,2025-08-04,Rep 98,REP098,Middelburg,Mpumalanga,Middelburg 6 u 13.1k,WhatsApp
+MSG008686,2025-10-17 19:55:00,2025-10-17,Rep 26,REP026,Middelburg,Mpumalanga,"Middelburg ✅ 1 u ✅ R 1,792",WhatsApp
+MSG004312,2025-09-08 17:04:00,2025-09-08,Rep 44,REP044,Cornubia,KZN,"Cornubia 15 units R 33,341",WhatsApp
+MSG004637,2025-09-11 18:45:00,2025-09-11,Rep 38,REP038,Pavilion,KZN,Pavilion: 8.3k and 4 u,WhatsApp
+MSG000172,2025-08-02 16:57:00,2025-08-02,Rep 67,REP067,Pavilion,KZN,"Pavilion - u 7 | sales R16,701",WhatsApp
+MSG011934,2025-11-15 17:24:00,2025-11-15,Rep 38,REP038,Pavilion,KZN,Pavilion 0 unit 0,WhatsApp
+MSG001252,2025-08-12 16:41:00,2025-08-12,Rep 7,,Eastgate,Gauteng,Eastgate 9 units R14079,WhatsApp
+MSG002194,2025-08-20 19:38:00,2025-08-20,Rep 57,REP057,Secunda,Mpumalanga,Secunda: 16.3k and 10 units,WhatsApp
+MSG000273,2025-08-03 17:44:00,2025-08-03,Rep 55,REP055,Mall of Africa,Gauteng,"Mall of Africa 5 u R 8,529",WhatsApp
+MSG007166,2025-10-03 17:01:00,2025-10-03,Rep 106,REP106,Somerset West,Western Cape,"Somerset West 6 unit R 7,839",WhatsApp
+MSG012115,2025-11-16 18:15:00,2025-11-16,Rep 112,REP112,Bedfordview,Gauteng,Bedfordview 9 unit R15035,WhatsApp
+MSG006925,2025-10-01 19:49:00,2025-10-01,Rep 83,REP083,Secunda,Mpumalanga,"Sales update Secunda -> 2 unit, rev R3,232",WhatsApp
+MSG000150,2025-08-02 17:56:00,2025-08-02,Rep 41,REP041,Middelburg,Mpumalanga,"Hi, Middelburg: units=0, sales=R0",WhatsApp
+MSG007585,2025-10-07 18:16:00,2025-10-07,Rep 68,REP068,Bedfordview,Gauteng,Bedfordview: 7.4k and 4 u,WhatsApp
+MSG009020,2025-10-20 16:22:00,2025-10-20,Rep 26,REP026,Middelburg,Mpumalanga,"Sales update Middelburg -> 0 unit, revenue R0",WhatsApp
+MSG009170,2025-10-21 20:35:00,2025-10-21,Rep 66,REP066,Cornubia,KZN,Cornubia ✅ 12 u ✅ 29755,WhatsApp
+MSG007667,2025-10-08 20:15:00,2025-10-08,Rep 34,REP034,Bedfordview,Gauteng,"Hi, Bedfordview: u=10, rev=21.4k",WhatsApp
+MSG005085,2025-09-15 22:32:00,2025-09-15,Rep 21,REP021,Pavilion,KZN,Pavilion - u 4 | rev R6536,WhatsApp
+MSG013446,2025-11-28 16:52:00,2025-11-28,Rep 86,REP086,Gateway,KZN,"Daily sales Gateway: 4 (units) / sales R 6,961",WhatsApp
+MSG010686,2025-11-05 08:24:00,2025-11-04,Rep 20,REP020,Mall of Africa,Gauteng,Mall of Africa 4 u R7 206,WhatsApp
+MSG001826,2025-08-17 17:41:00,2025-08-17,Rep 20,REP020,Mall of Africa,Gauteng,Daily sales Mall of Africa: 7 (units) / revenue 11.7k,WhatsApp
+MSG001840,2025-08-17 17:46:00,2025-08-17,Rep 35,REP035,Eastgate,Gauteng,Eastgate 10 u 19.9k,WhatsApp
+MSG002299,2025-08-21 18:17:00,2025-08-21,Rep 47,REP047,Soweto,Gauteng,Soweto: R13665 and 10 units,WhatsApp
+MSG001332,2025-08-12 17:05:00,2025-08-12,Rep 93,REP093,Centurion,Gauteng,Centurion - u 0 | revenue R0,WhatsApp
+MSG006200,2025-09-25 17:20:00,2025-09-25,Rep 30,REP030,Randburg,Gauteng,"Sales update Randburg -> 4 units, revenue R9 551",WhatsApp
+MSG005468,2025-09-18 16:40:00,2025-09-18,Rep 88,REP088,George,Western Cape,"George 10 u R 19,335",WhatsApp
+MSG009853,2025-10-27 17:14:00,2025-10-27,Rep 92,REP092,Rosebank,Gauteng,Rosebank 6 units 13166,WhatsApp
+MSG001634,2025-08-15 18:50:00,2025-08-15,Rep 53,REP053,Randburg,Gauteng,"Daily sales Randburg: 5 (units) / sales R 8,281",WhatsApp
+MSG008252,2025-10-13 19:14:00,2025-10-13,Rep 47,REP047,Soweto,Gauteng,Daily sales Soweto - 4 (unit) / sales R6 837,WhatsApp
+MSG010930,2025-11-06 19:44:00,2025-11-06,Rep 24,REP024,Mall of Africa,Gauteng,Mall of Africa 9 unit 16145,WhatsApp
+MSG012683,2025-11-21 19:40:00,2025-11-21,Rep 106,REP106,Somerset West,Western Cape,Somerset West ✅ 10 unit ✅ R21048,WhatsApp
+MSG001556,2025-08-14 16:14:00,2025-08-14,Rep 91,REP091,Randburg,Gauteng,"Sales update Randburg -> 1 u, sales 1619",WhatsApp
+MSG003462,2025-08-31 17:54:00,2025-08-31,Rep 100,REP100,Gateway,KZN,Gateway ✅ 3 unit ✅ R3413,WhatsApp
+MSG004386,2025-09-09 21:07:00,2025-09-09,Rep 1,REP001,Centurion,Gauteng,"Hi, Centurion: u=6, rev=7.2k",WhatsApp
+MSG010194,2025-10-30 17:09:00,2025-10-30,Rep 95,,Bloemfontein,Free State,"Bloemfontein: R 21,681 and 16 unit",WhatsApp
+MSG011110,2025-11-07 19:07:00,2025-11-07,Rep 96,REP096,Secunda,Mpumalanga,Secunda - u 7 | rev R 14 135,WhatsApp
+MSG000555,2025-08-05 18:35:00,2025-08-05,Rep 105,REP105,Gateway,KZN,"Hi, Gateway: u=7, sales=12.3k",WhatsApp
+MSG012771,2025-11-22 16:17:00,2025-11-22,Rep 79,REP079,Canal Walk,Western Cape,"Hi, Canal Walk - units=10, revenue=R20 564",WhatsApp
+MSG005214,2025-09-16 18:32:00,2025-09-16,Rep 48,REP048,Fourways,Gauteng,Fourways 3 units R4389,WhatsApp
+MSG010561,2025-11-03 21:42:00,2025-11-03,Rep 12,REP012,Umlanga,KZN,Daily sales Umlanga: 14 (unit) / revenue R18426,WhatsApp
+MSG006233,2025-09-25 17:28:00,2025-09-25,Rep 66,REP066,Cornubia,KZN,"Cornubia 14 units R25,191",WhatsApp
+MSG007436,2025-10-06 19:07:00,2025-10-05,Rep 29,REP029,Soweto,Gauteng,Soweto ✅ 4 u ✅ R9036,WhatsApp
+MSG007808,2025-10-09 19:36:00,2025-10-09,Rep 63,REP063,Durban CBD,KZN,Durban CBD 0 u R 0,WhatsApp
+MSG009767,2025-10-26 18:27:00,2025-10-26,Rep 118,REP118,Kempton Park,Gauteng,"Hi, Kempton Park: units=2, rev=R 2,426",WhatsApp
+MSG012849,2025-11-23 19:53:00,2025-11-23,Rep 41,REP041,Middelburg,Mpumalanga,"Middelburg ✅ 13 u ✅ R 19,670",WhatsApp
+MSG004493,2025-09-09 18:12:00,2025-09-09,Rep 117,REP117,Durban CBD,KZN,Daily sales Durban CBD: 8 (unit) / revenue R10707,WhatsApp
+MSG007478,2025-10-06 18:25:00,2025-10-06,Rep 72,REP072,Fourways,Gauteng,Fourways: R9569 and 7 units,WhatsApp
+MSG010672,2025-11-04 19:48:00,2025-11-04,Rep 5,REP005,Canal Walk,Western Cape,"Canal Walk ✅ 4 unit ✅ R 7,932",WhatsApp
+MSG004200,2025-09-07 17:13:00,2025-09-07,Rep 51,REP051,Sandton City,Gauteng,Sandton City - u 11 | revenue R21 598,WhatsApp
+MSG009192,2025-10-21 20:32:00,2025-10-21,Rep 89,,Bloemfontein,Free State,"Bloemfontein ✅ 6 u ✅ R 11,955",WhatsApp
+MSG007692,2025-10-08 20:50:00,2025-10-08,Rep 57,REP057,Secunda,Mpumalanga,Secunda 10 units 23366,WhatsApp
+MSG013221,2025-11-26 17:17:00,2025-11-26,Rep 80,REP080,Gateway,KZN,Gateway 3 u R4 690,WhatsApp
+MSG001523,2025-08-14 18:12:00,2025-08-14,Rep 56,REP056,V&A Waterfront,Western Cape,Daily sales V&A Waterfront - 2 (u) / sales 2.5k,WhatsApp
+MSG012052,2025-11-16 17:02:00,2025-11-16,Rep 46,REP046,Rosebank,Gauteng,"Rosebank 3 u R5,189",WhatsApp
+MSG006028,2025-09-23 17:43:00,2025-09-23,Rep 93,REP093,Centurion,Gauteng,Daily sales Centurion: 4 (units) / sales R9612,WhatsApp
+MSG013472,2025-11-29 08:13:00,2025-11-28,Rep 111,REP111,Somerset West,Western Cape,Somerset West ✅ 13 unit ✅ R22523,WhatsApp
+MSG000353,2025-08-04 20:25:00,2025-08-04,Rep 18,REP018,Soweto,Gauteng,Soweto ✅ 1 unit ✅ R1 307,WhatsApp
+MSG003450,2025-08-31 17:12:00,2025-08-31,Rep 85,,Vanderbijlpark,Gauteng,Vanderbijlpark ✅ 15 units ✅ R36668,WhatsApp
+MSG009051,2025-10-20 18:52:00,2025-10-20,Rep 61,REP061,Durban CBD,KZN,"Daily sales Durban CBD: 5 (u) / sales R 9,904",WhatsApp
+MSG007002,2025-10-02 17:44:00,2025-10-02,Rep 49,REP049,Menlyn,Gauteng,Daily sales Menlyn: 8 (u) / revenue 16.2k,WhatsApp
+MSG006519,2025-09-28 22:11:00,2025-09-28,Rep 3,REP003,Cavendish,Western Cape,"Cavendish - unit 16 | revenue R32,772",WhatsApp
+MSG001160,2025-08-11 19:09:00,2025-08-11,Rep 29,REP029,Soweto,Gauteng,Soweto: 9.7k and 10 u,WhatsApp
+MSG010703,2025-11-04 16:48:00,2025-11-04,Rep 36,REP036,Umlanga,KZN,"Hi, Umlanga: unit=3, revenue=5.0k",WhatsApp
+MSG001265,2025-08-12 19:02:00,2025-08-12,Rep 24,REP024,Mall of Africa,Gauteng,Mall of Africa ✅ 8 u ✅ 12992,WhatsApp
+MSG007967,2025-10-10 18:46:00,2025-10-10,Rep 106,REP106,Somerset West,Western Cape,Somerset West - u 4 | revenue R 7903,WhatsApp
+MSG004990,2025-09-14 21:34:00,2025-09-14,Rep 45,REP045,Cornubia,KZN,"Daily sales Cornubia: 11 (units) / revenue R20,391",WhatsApp
+MSG013381,2025-11-28 18:42:00,2025-11-28,Rep 17,REP017,Somerset West,Western Cape,Somerset West - 17845 and 8 u,WhatsApp
+MSG005462,2025-09-18 18:55:00,2025-09-18,Rep 82,REP082,Pietermaritzburg,KZN,"Hi, Pietermaritzburg: unit=7, revenue=R13311",WhatsApp
+MSG011152,2025-11-08 18:17:00,2025-11-08,Rep 21,REP021,Pavilion,KZN,Daily sales Pavilion: 4 (units) / revenue R9 629,WhatsApp
+MSG001217,2025-08-11 17:36:00,2025-08-11,Rep 88,REP088,George,Western Cape,"George 3 units R 9,077",WhatsApp
+MSG003057,2025-08-28 18:13:00,2025-08-27,Rep 14,REP014,Sandton City,Gauteng,Sandton City: R0 and 0 units,WhatsApp
+MSG000901,2025-08-08 17:25:00,2025-08-08,Rep 107,REP107,Mall of Africa,Gauteng,Mall of Africa: 0 and 0 units,WhatsApp
+MSG004981,2025-09-14 16:39:00,2025-09-14,Rep 35,REP035,Eastgate,Gauteng,Eastgate - unit 9 | rev 14950,WhatsApp
+MSG000068,2025-08-01 19:00:00,2025-08-01,Rep 70,REP070,George,Western Cape,"Hi, George: u=6, sales=R12,229",WhatsApp
+MSG013172,2025-11-26 16:08:00,2025-11-26,Rep 28,REP028,Claremont,Western Cape,Claremont - units 5 | sales R 8631,WhatsApp
+MSG010118,2025-10-31 08:58:00,2025-10-30,Rep 17,REP017,Somerset West,Western Cape,Somerset West: 14.3k and 8 unit,WhatsApp
+MSG012463,2025-11-20 18:14:00,2025-11-20,Rep 2,REP002,Vanderbijlpark,Gauteng,"Hi, Vanderbijlpark: units=6, sales=R8 320",WhatsApp
+MSG011391,2025-11-10 18:05:00,2025-11-10,Rep 46,REP046,Rosebank,Gauteng,"Sales update Rosebank -> 16 unit, revenue R27942",WhatsApp
+MSG008804,2025-10-18 20:44:00,2025-10-18,Rep 31,REP031,Durban CBD,KZN,"Hi, Durban CBD: unit=11, sales=25508",WhatsApp
+MSG012001,2025-11-15 17:10:00,2025-11-15,Rep 109,REP109,Claremont,Western Cape,"Sales update Claremont -> 16 u, revenue 30053",WhatsApp
+MSG008064,2025-10-11 17:27:00,2025-10-11,Rep 84,REP084,Gateway,KZN,Gateway ✅ 6 u ✅ 6154,WhatsApp
+MSG013049,2025-11-25 18:30:00,2025-11-25,Rep 21,REP021,Pavilion,KZN,"Hi, Pavilion: units=7, rev=14400",WhatsApp
+MSG000270,2025-08-03 17:45:00,2025-08-02,Rep 51,REP051,Sandton City,Gauteng,"Sandton City: R 14,506 and 9 u",WhatsApp
+MSG003833,2025-09-04 18:59:00,2025-09-04,Rep 21,,Pavilion,KZN,Daily sales Pavilion: 5 (u) / rev 6879,WhatsApp
+MSG010704,2025-11-04 17:20:00,2025-11-04,Rep 37,REP037,Soweto,Gauteng,Soweto - unit 0 | revenue 0,WhatsApp
+MSG005318,2025-09-17 16:16:00,2025-09-17,Rep 41,REP041,Middelburg,Mpumalanga,Daily sales Middelburg: 0 (unit) / sales R 0,WhatsApp
+MSG009876,2025-10-27 23:12:00,2025-10-27,Rep 119,REP119,Centurion,Gauteng,Centurion 4 u R5 525,WhatsApp
+MSG011631,2025-11-12 17:06:00,2025-11-12,Rep 69,REP069,Pietermaritzburg,KZN,Pietermaritzburg: 0 and 0 unit,WhatsApp
+MSG003185,2025-08-29 17:07:00,2025-08-29,Rep 30,REP030,Randburg,Gauteng,"Hi, Randburg: unit=6, sales=R13,011",WhatsApp
+MSG012531,2025-11-20 20:48:00,2025-11-20,Rep 71,REP071,Kempton Park,Gauteng,"Hi, Kempton Park: u=8, rev=R14 009",WhatsApp
+MSG011764,2025-11-13 16:27:00,2025-11-13,Rep 86,REP086,Gateway,KZN,"Hi, Gateway: unit=6, sales=13.0k",WhatsApp
+MSG000956,2025-08-09 15:52:00,2025-08-09,Rep 49,REP049,Menlyn,Gauteng,Menlyn: R14 723 and 9 units,WhatsApp
+MSG004761,2025-09-12 19:58:00,2025-09-12,Rep 41,REP041,Middelburg,Mpumalanga,"Middelburg ✅ 3 units ✅ R5,267",WhatsApp
+MSG005679,2025-09-20 20:29:00,2025-09-20,Rep 77,REP077,Kempton Park,Gauteng,"Hi, Kempton Park: u=8, rev=R14 891",WhatsApp
+MSG001190,2025-08-11 17:04:00,2025-08-11,Rep 59,REP059,George,Western Cape,"George - units 5 | rev R 7,390",WhatsApp
+MSG009390,2025-10-23 18:11:00,2025-10-23,Rep 65,REP065,George,Western Cape,"George - u 5 | sales R7,543",WhatsApp
+MSG008472,2025-10-15 21:38:00,2025-10-15,Rep 38,REP038,Pavilion,KZN,"Pavilion - R 2,153 and 1 u",WhatsApp
+MSG008867,2025-10-18 18:43:00,2025-10-18,Rep 97,REP097,Randburg,Gauteng,"Randburg ✅ 8 u ✅ R 12,245",WhatsApp
+MSG005319,2025-09-18 09:27:00,2025-09-17,Rep 42,REP042,Menlyn,Gauteng,"Menlyn - u 3 | revenue R 6,181",WhatsApp
+MSG006819,2025-09-30 17:37:00,2025-09-30,Rep 91,REP091,Randburg,Gauteng,Randburg ✅ 3 unit ✅ 5.3k,WhatsApp
+MSG003692,2025-09-02 19:08:00,2025-09-02,Rep 113,,Clearwater,Gauteng,Clearwater ✅ 9 u ✅ 12.9k,WhatsApp
+MSG009236,2025-10-22 18:48:00,2025-10-22,Rep 17,REP017,Somerset West,Western Cape,"Hi, Somerset West: unit=11, revenue=21671",WhatsApp
+MSG006307,2025-09-26 21:09:00,2025-09-26,Rep 25,REP025,Richards Bay,KZN,Richards Bay 18 units 34.2k,WhatsApp
+MSG008074,2025-10-11 19:52:00,2025-10-11,Rep 96,REP096,Secunda,Mpumalanga,Secunda 18 unit R31874,WhatsApp
+MSG005670,2025-09-20 16:53:00,2025-09-20,Rep 67,REP067,Pavilion,KZN,Pavilion ✅ 4 units ✅ 9.2k,WhatsApp
+MSG001334,2025-08-12 19:43:00,2025-08-12,Rep 94,REP094,Pavilion,KZN,Pavilion: 0 and 0 units,WhatsApp
+MSG000613,2025-08-06 20:55:00,2025-08-06,Rep 51,REP051,Sandton City,Gauteng,Sandton City - u 5 | sales 8.8k,WhatsApp
+MSG012917,2025-11-23 18:54:00,2025-11-23,Rep 117,REP117,Durban CBD,KZN,Durban CBD - units 14 | sales R29 827,WhatsApp
+MSG002525,2025-08-23 18:12:00,2025-08-23,Rep 57,REP057,Secunda,Mpumalanga,Secunda 11 units 25566,WhatsApp
+MSG007095,2025-10-03 17:57:00,2025-10-03,Rep 34,REP034,Bedfordview,Gauteng,"Hi, Bedfordview - unit=5, rev=10.9k",WhatsApp
+MSG008097,2025-10-12 17:22:00,2025-10-12,Rep 1,REP001,Centurion,Gauteng,"Hi, Centurion: unit=7, revenue=R12,705",WhatsApp
+MSG001729,2025-08-16 18:32:00,2025-08-16,Rep 35,REP035,Eastgate,Gauteng,"Eastgate - units 8 | sales R 14,757",WhatsApp
+MSG011709,2025-11-13 19:11:00,2025-11-13,Rep 30,REP030,Randburg,Gauteng,Randburg - u 3 | rev R5 979,WhatsApp
+MSG000939,2025-08-09 17:10:00,2025-08-09,Rep 31,REP031,Durban CBD,KZN,Durban CBD - 8344 and 5 units,WhatsApp
+MSG000438,2025-08-04 20:17:00,2025-08-04,Rep 104,REP104,Bloemfontein,Free State,Bloemfontein - unit 1 | sales 1.3k,WhatsApp
+MSG007031,2025-10-02 22:46:00,2025-10-01,Rep 82,REP082,Pietermaritzburg,KZN,Daily sales Pietermaritzburg: 7 (units) / sales 11.0k,WhatsApp
+MSG003407,2025-08-31 20:26:00,2025-08-31,Rep 34,REP034,Bedfordview,Gauteng,Bedfordview - units 6 | rev R24 333,WhatsApp
+MSG006084,2025-09-24 19:57:00,2025-09-24,Rep 33,,Eastgate,Gauteng,Eastgate: R4834 and 4 units,WhatsApp
+MSG004898,2025-09-13 18:30:00,2025-09-13,Rep 70,REP070,George,Western Cape,George ✅ 7 u ✅ 16.1k,WhatsApp
+MSG010460,2025-11-02 18:17:00,2025-11-02,Rep 25,REP025,Richards Bay,KZN,"Hi, Richards Bay: unit=0, rev=R0",WhatsApp
+MSG004865,2025-09-13 17:42:00,2025-09-13,Rep 35,REP035,Eastgate,Gauteng,"Sales update Eastgate -> 4 units, revenue R8 998",WhatsApp
+MSG006266,2025-09-25 18:13:00,2025-09-25,Rep 102,REP102,V&A Waterfront,Western Cape,V&A Waterfront: 38683 and 16 units,WhatsApp
+MSG001985,2025-08-18 19:42:00,2025-08-18,Rep 67,REP067,Pavilion,KZN,"Hi, Pavilion: u=10, revenue=R 22,443",WhatsApp
+MSG006924,2025-10-01 19:46:00,2025-10-01,Rep 82,,Pietermaritzburg,KZN,Pietermaritzburg ✅ 6 units ✅ 11732,WhatsApp
+MSG011449,2025-11-10 20:22:00,2025-11-10,Rep 112,REP112,Bedfordview,Gauteng,"Sales update Bedfordview -> 5 units, sales 8256",WhatsApp
+MSG002398,2025-08-22 17:58:00,2025-08-22,Rep 42,REP042,Menlyn,Gauteng,Menlyn ✅ 9 units ✅ R10827,WhatsApp
+MSG002187,2025-08-20 16:47:00,2025-08-20,Rep 49,REP049,Menlyn,Gauteng,"Sales update Menlyn -> 7 u, sales 9.3k",WhatsApp
+MSG003197,2025-08-29 18:02:00,2025-08-29,Rep 43,REP043,Cornubia,KZN,"Sales update Cornubia -> 0 units, revenue R0",WhatsApp
+MSG006599,2025-09-28 17:03:00,2025-09-28,Rep 94,REP094,Pavilion,KZN,"Sales update Pavilion -> 14 units, rev R20 785",WhatsApp
+MSG012654,2025-11-21 19:34:00,2025-11-21,Rep 79,REP079,Canal Walk,Western Cape,"Hi, Canal Walk: unit=12, revenue=R26,059",WhatsApp
+MSG010000,2025-10-29 20:59:00,2025-10-29,Rep 11,REP011,Menlyn,Gauteng,"Sales update Menlyn -> 15 u, rev 23756",WhatsApp
+MSG002125,2025-08-20 08:41:00,2025-08-19,Rep 105,,Gateway,KZN,Gateway: R4 710 and 3 u,WhatsApp
+MSG009164,2025-10-21 17:12:00,2025-10-21,Rep 59,REP059,George,Western Cape,George ✅ 2 u ✅ 3.5k,WhatsApp
+MSG011935,2025-11-15 18:33:00,2025-11-15,Rep 39,,Stellenbosch,Western Cape,"Stellenbosch - u 2 | rev R3,338",WhatsApp
+MSG008611,2025-10-16 18:17:00,2025-10-16,Rep 66,REP066,Cornubia,KZN,"Hi, Cornubia: unit=19, rev=R32048",WhatsApp
+MSG000098,2025-08-01 21:49:00,2025-08-01,Rep 103,REP103,Richards Bay,KZN,Daily sales Richards Bay: 8 (unit) / rev 11.5k,WhatsApp
+MSG006668,2025-09-29 16:07:00,2025-09-29,Rep 53,REP053,Randburg,Gauteng,"Randburg: R8,365 and 5 units",WhatsApp
+MSG008536,2025-10-15 17:24:00,2025-10-15,Rep 107,REP107,Mall of Africa,Gauteng,Mall of Africa: R6653 and 4 units,WhatsApp
+MSG003801,2025-09-03 18:47:00,2025-09-03,Rep 106,REP106,Somerset West,Western Cape,Somerset West: 24.2k and 19 units,WhatsApp
+MSG002948,2025-08-27 19:06:00,2025-08-27,Rep 16,REP016,Kroonstad,Free State,"Sales update Kroonstad -> 10 units, rev R18140",WhatsApp
+MSG007816,2025-10-10 08:58:00,2025-10-09,Rep 71,REP071,Kempton Park,Gauteng,Kempton Park - units 9 | rev 15965,WhatsApp
+MSG001301,2025-08-12 17:45:00,2025-08-12,Rep 62,,Sandton City,Gauteng,"Hi, Sandton City: units=11, revenue=R21 764",WhatsApp
+MSG008695,2025-10-17 20:22:00,2025-10-17,Rep 36,,Umlanga,KZN,Umlanga 8 u R16 620,WhatsApp
+MSG001522,2025-08-14 16:12:00,2025-08-14,Rep 55,REP055,Mall of Africa,Gauteng,"Hi, Mall of Africa: units=5, sales=R 7,659",WhatsApp
+MSG012040,2025-11-16 18:48:00,2025-11-16,Rep 34,REP034,Bedfordview,Gauteng,Bedfordview: 14553 and 7 unit,WhatsApp
+MSG008347,2025-10-14 17:17:00,2025-10-14,Rep 29,REP029,Soweto,Gauteng,"Sales update Soweto -> 8 units, rev 15241",WhatsApp
+MSG005400,2025-09-18 19:37:00,2025-09-18,Rep 12,REP012,Umlanga,KZN,"Hi, Umlanga: units=9, rev=R20142",WhatsApp
+MSG006332,2025-09-26 17:45:00,2025-09-26,Rep 50,REP050,Pavilion,KZN,"Hi, Pavilion: units=4, rev=R9 108",WhatsApp
+MSG001308,2025-08-12 18:28:00,2025-08-12,Rep 69,REP069,Pietermaritzburg,KZN,"Daily sales Pietermaritzburg: 6 (units) / rev R10,122",WhatsApp
+MSG013231,2025-11-26 19:49:00,2025-11-26,Rep 93,REP093,Centurion,Gauteng,"Hi, Centurion: unit=5, revenue=R9,804",WhatsApp
+MSG006950,2025-10-01 21:33:00,2025-10-01,Rep 110,REP110,Vanderbijlpark,Gauteng,Vanderbijlpark: R35391 and 14 units,WhatsApp
+MSG008553,2025-10-16 17:27:00,2025-10-16,Rep 5,REP005,Canal Walk,Western Cape,"Canal Walk ✅ 12 unit ✅ R 27,333",WhatsApp
+MSG010206,2025-10-30 16:10:00,2025-10-30,Rep 108,REP108,Kroonstad,Free State,"Sales update Kroonstad -> 4 unit, rev R 5,588",WhatsApp
+MSG005299,2025-09-17 16:39:00,2025-09-17,Rep 19,REP019,Kempton Park,Gauteng,Kempton Park ✅ 6 units ✅ R10 168,WhatsApp
+MSG013303,2025-11-27 17:02:00,2025-11-27,Rep 49,REP049,Menlyn,Gauteng,"Sales update Menlyn -> 7 u, revenue R11,977",WhatsApp
+MSG000317,2025-08-03 18:40:00,2025-08-03,Rep 101,REP101,Bedfordview,Gauteng,"Bedfordview 5 unit R 7,371",WhatsApp
+MSG004566,2025-09-10 19:18:00,2025-09-10,Rep 83,REP083,Secunda,Mpumalanga,Secunda 9 u R10 612,WhatsApp
+MSG010550,2025-11-04 09:22:00,2025-11-03,Rep 1,REP001,Centurion,Gauteng,Centurion: 19.6k and 11 u,WhatsApp
+MSG009433,2025-10-23 17:34:00,2025-10-23,Rep 114,REP114,Cavendish,Western Cape,"Hi, Cavendish: units=13, rev=R 30,915",WhatsApp
+MSG005428,2025-09-18 17:49:00,2025-09-18,Rep 43,REP043,Cornubia,KZN,"Daily sales Cornubia: 12 (units) / rev R19,138",WhatsApp
+MSG009043,2025-10-20 18:18:00,2025-10-20,Rep 52,,Rosebank,Gauteng,"Daily sales Rosebank: 5 (units) / rev R 12,325",WhatsApp
+MSG007256,2025-10-04 18:53:00,2025-10-04,Rep 86,REP086,Gateway,KZN,"Gateway ✅ 8 unit ✅ R14,948",WhatsApp
+MSG012002,2025-11-15 20:17:00,2025-11-15,Rep 110,REP110,Vanderbijlpark,Gauteng,"Vanderbijlpark: R21,145 and 11 u",WhatsApp
+MSG002902,2025-08-26 16:57:00,2025-08-26,Rep 87,REP087,Claremont,Western Cape,"Claremont ✅ 3 u ✅ R7,479",WhatsApp
+MSG011025,2025-11-07 17:57:00,2025-11-07,Rep 5,REP005,Canal Walk,Western Cape,"Sales update Canal Walk -> 7 units, sales 12.0k",WhatsApp
+MSG000091,2025-08-01 16:19:00,2025-08-01,Rep 94,REP094,Pavilion,KZN,Daily sales Pavilion: 7 (unit) / sales 11848,WhatsApp
+MSG010191,2025-10-30 19:21:00,2025-10-30,Rep 92,REP092,Rosebank,Gauteng,"Hi, Rosebank: units=5, revenue=8771",WhatsApp
+MSG011850,2025-11-14 19:57:00,2025-11-14,Rep 64,REP064,Richards Bay,KZN,Richards Bay - u 6 | sales R12 537,WhatsApp
+MSG003109,2025-08-28 15:28:00,2025-08-28,Rep 71,REP071,Kempton Park,Gauteng,"Sales update Kempton Park -> 15 unit, revenue R33330",WhatsApp
+MSG001851,2025-08-17 16:04:00,2025-08-17,Rep 46,REP046,Rosebank,Gauteng,Rosebank ✅ 13 unit ✅ 19.5k,WhatsApp
+MSG006323,2025-09-26 19:36:00,2025-09-26,Rep 41,REP041,Middelburg,Mpumalanga,"Middelburg ✅ 7 u ✅ R 14,353",WhatsApp
+MSG003239,2025-08-29 21:01:00,2025-08-29,Rep 90,REP090,V&A Waterfront,Western Cape,"V&A Waterfront ✅ 14 unit ✅ R29,325",WhatsApp
+MSG005884,2025-09-22 20:53:00,2025-09-22,Rep 56,REP056,V&A Waterfront,Western Cape,V&A Waterfront - 10974 and 5 units,WhatsApp
+MSG011948,2025-11-15 16:45:00,2025-11-14,Rep 53,,Randburg,Gauteng,Randburg: 7371 and 4 u,WhatsApp
+MSG009045,2025-10-20 16:00:00,2025-10-20,Rep 55,REP055,Mall of Africa,Gauteng,"Mall of Africa - units 6 | revenue R 10,635",WhatsApp
+MSG001917,2025-08-17 15:58:00,2025-08-17,Rep 115,REP115,Menlyn,Gauteng,Menlyn 15 u R28870,WhatsApp
+MSG004187,2025-09-07 18:40:00,2025-09-07,Rep 38,REP038,Pavilion,KZN,"Pavilion - unit 7 | sales R 6,263",WhatsApp
+MSG000625,2025-08-06 22:46:00,2025-08-06,Rep 64,REP064,Richards Bay,KZN,"Richards Bay ✅ 14 u ✅ R26,070",WhatsApp
+MSG002687,2025-08-24 18:58:00,2025-08-24,Rep 104,REP104,Bloemfontein,Free State,"Hi, Bloemfontein: unit=4, rev=R7278",WhatsApp
+MSG006128,2025-09-24 16:22:00,2025-09-24,Rep 79,REP079,Canal Walk,Western Cape,"Canal Walk - u 6 | rev R 7,429",WhatsApp
+MSG006273,2025-09-25 18:04:00,2025-09-25,Rep 109,REP109,Claremont,Western Cape,"Claremont - R 22,553 and 9 unit",WhatsApp
+MSG010614,2025-11-03 17:50:00,2025-11-03,Rep 62,REP062,Sandton City,Gauteng,"Sandton City ✅ 2 units ✅ R 3,791",WhatsApp
+MSG002897,2025-08-27 09:41:00,2025-08-26,Rep 83,REP083,Secunda,Mpumalanga,"Hi, Secunda: units=2, rev=4.1k",WhatsApp
+MSG008856,2025-10-18 19:24:00,2025-10-18,Rep 87,REP087,Claremont,Western Cape,Claremont ✅ 3 units ✅ R6 226,WhatsApp
+MSG010211,2025-10-30 18:21:00,2025-10-30,Rep 113,REP113,Clearwater,Gauteng,Clearwater: R35384 and 18 unit,WhatsApp
+MSG002344,2025-08-21 19:21:00,2025-08-21,Rep 97,REP097,Randburg,Gauteng,Daily sales Randburg: 4 (u) / revenue R8150,WhatsApp
+MSG006321,2025-09-26 18:06:00,2025-09-26,Rep 38,REP038,Pavilion,KZN,"Pavilion 4 u R 6,248",WhatsApp
+MSG007087,2025-10-03 19:48:00,2025-10-03,Rep 25,REP025,Richards Bay,KZN,"Hi, Richards Bay: units=14, revenue=31076",WhatsApp
+MSG004196,2025-09-07 18:33:00,2025-09-07,Rep 47,REP047,Soweto,Gauteng,"Soweto ✅ 10 u ✅ R 24,015",WhatsApp
+MSG010884,2025-11-05 18:56:00,2025-11-05,Rep 100,REP100,Gateway,KZN,Gateway: R4316 and 4 unit,WhatsApp
+MSG003415,2025-08-31 18:58:00,2025-08-31,Rep 49,REP049,Menlyn,Gauteng,"Sales update Menlyn -> 4 units, revenue 3.8k",WhatsApp
+MSG000379,2025-08-04 16:06:00,2025-08-04,Rep 46,REP046,Rosebank,Gauteng,"Rosebank 9 unit R19,780",WhatsApp
+MSG011051,2025-11-07 18:50:00,2025-11-07,Rep 31,REP031,Durban CBD,KZN,Durban CBD 9 unit R16736,WhatsApp
+MSG007011,2025-10-02 19:45:00,2025-10-02,Rep 59,,George,Western Cape,George ✅ 6 units ✅ R10471,WhatsApp
+MSG010735,2025-11-04 17:02:00,2025-11-04,Rep 67,REP067,Pavilion,KZN,"Pavilion: R 1,591 and 1 u",WhatsApp
+MSG007800,2025-10-09 18:16:00,2025-10-09,Rep 55,REP055,Mall of Africa,Gauteng,Daily sales Mall of Africa: 6 (unit) / rev R 13013,WhatsApp
+MSG007266,2025-10-04 19:10:00,2025-10-04,Rep 95,REP095,Bloemfontein,Free State,"Hi, Bloemfontein: units=6, rev=16763",WhatsApp
+MSG012153,2025-11-17 18:33:00,2025-11-17,Rep 33,REP033,Eastgate,Gauteng,Eastgate 15 u R27973,WhatsApp
+MSG013302,2025-11-27 19:04:00,2025-11-27,Rep 47,REP047,Soweto,Gauteng,"Soweto ✅ 5 units ✅ R11,219",WhatsApp
+MSG011768,2025-11-13 16:52:00,2025-11-13,Rep 91,REP091,Randburg,Gauteng,"Randburg ✅ 7 u ✅ R 11,618",WhatsApp
+MSG008727,2025-10-18 08:46:00,2025-10-17,Rep 70,REP070,George,Western Cape,"Hi, George: units=3, revenue=5.4k",WhatsApp
+MSG005162,2025-09-15 17:18:00,2025-09-15,Rep 111,REP111,Somerset West,Western Cape,"Hi, Somerset West: u=12, sales=R 31,074",WhatsApp
+MSG003360,2025-08-30 18:19:00,2025-08-30,Rep 104,REP104,Bloemfontein,Free State,Bloemfontein: 6.4k and 4 units,WhatsApp
+MSG000051,2025-08-01 20:31:00,2025-08-01,Rep 51,,Sandton City,Gauteng,Daily sales Sandton City: 7 (unit) / revenue 6.9k,WhatsApp
+MSG003160,2025-08-29 16:33:00,2025-08-29,Rep 4,REP004,Mall of Africa,Gauteng,"Sales update Mall of Africa -> 4 u, revenue 5778",WhatsApp
+MSG008600,2025-10-16 17:19:00,2025-10-16,Rep 54,REP054,Stellenbosch,Western Cape,Stellenbosch ✅ 11 u ✅ R14 708,WhatsApp
+MSG002179,2025-08-20 19:48:00,2025-08-20,Rep 40,REP040,Cornubia,KZN,Cornubia 0 units R0,WhatsApp
+MSG011438,2025-11-10 19:31:00,2025-11-10,Rep 100,REP100,Gateway,KZN,"Daily sales Gateway: 3 (unit) / rev R7,557",WhatsApp
+MSG010785,2025-11-04 17:21:00,2025-11-04,Rep 118,REP118,Kempton Park,Gauteng,Daily sales Kempton Park: 7 (unit) / revenue R13441,WhatsApp
+MSG006249,2025-09-25 22:06:00,2025-09-25,Rep 83,REP083,Secunda,Mpumalanga,Daily sales Secunda: 0 (unit) / revenue R 0,WhatsApp
+MSG012611,2025-11-21 17:31:00,2025-11-21,Rep 37,REP037,Soweto,Gauteng,Soweto - 28465 and 11 unit,WhatsApp
+MSG008310,2025-10-13 17:56:00,2025-10-13,Rep 108,REP108,Kroonstad,Free State,"Daily sales Kroonstad - 7 (units) / sales R 13,171",WhatsApp
+MSG009264,2025-10-22 21:06:00,2025-10-22,Rep 49,REP049,Menlyn,Gauteng,Menlyn - u 0 | revenue R0,WhatsApp
+MSG002098,2025-08-19 16:29:00,2025-08-19,Rep 76,REP076,Menlyn,Gauteng,Menlyn 2 units R3 492,WhatsApp
+MSG010723,2025-11-04 17:10:00,2025-11-04,Rep 56,REP056,V&A Waterfront,Western Cape,V&A Waterfront 4 unit 9172,WhatsApp
+MSG001403,2025-08-13 17:10:00,2025-08-13,Rep 42,REP042,Menlyn,Gauteng,"Menlyn: R 12,739 and 9 units",WhatsApp
+MSG003924,2025-09-04 17:26:00,2025-09-04,Rep 120,REP120,Sandton City,Gauteng,"Sales update Sandton City -> 11 unit, rev R16835",WhatsApp
+MSG008503,2025-10-16 08:52:00,2025-10-15,Rep 73,,Mall of Africa,Gauteng,Mall of Africa ✅ 7 units ✅ 10.1k,WhatsApp
+MSG006956,2025-10-02 07:23:00,2025-10-01,Rep 118,REP118,Kempton Park,Gauteng,Kempton Park ✅ 3 u ✅ R5061,WhatsApp
+MSG006919,2025-10-01 17:07:00,2025-10-01,Rep 77,REP077,Kempton Park,Gauteng,"Hi, Kempton Park: units=4, sales=6.5k",WhatsApp
+MSG006986,2025-10-02 17:12:00,2025-10-02,Rep 30,REP030,Randburg,Gauteng,Daily sales Randburg: 0 (unit) / sales 0,WhatsApp
+MSG010214,2025-10-30 18:37:00,2025-10-30,Rep 118,,Kempton Park,Gauteng,Kempton Park: 25192 and 15 u,WhatsApp
+MSG003930,2025-09-05 17:19:00,2025-09-05,Rep 8,REP008,Gateway,KZN,Gateway 11 units R38627,WhatsApp
+MSG006001,2025-09-23 16:57:00,2025-09-23,Rep 66,REP066,Cornubia,KZN,Cornubia: 16267 and 9 units,WhatsApp
+MSG002029,2025-08-18 17:47:00,2025-08-18,Rep 118,REP118,Kempton Park,Gauteng,Kempton Park 8 units 16055,WhatsApp
+MSG000813,2025-08-08 17:55:00,2025-08-08,Rep 16,REP016,Kroonstad,Free State,Kroonstad ✅ 3 units ✅ R5743,WhatsApp
+MSG007619,2025-10-07 18:30:00,2025-10-07,Rep 104,REP104,Bloemfontein,Free State,Bloemfontein - u 5 | rev 9.2k,WhatsApp
+MSG011648,2025-11-13 08:28:00,2025-11-12,Rep 87,REP087,Claremont,Western Cape,Claremont: 14.5k and 6 unit,WhatsApp
+MSG003062,2025-08-28 18:39:00,2025-08-28,Rep 21,,Pavilion,KZN,"Hi, Pavilion - unit=10, sales=R20232",WhatsApp
+MSG001570,2025-08-14 17:06:00,2025-08-14,Rep 106,REP106,Somerset West,Western Cape,Somerset West 8 u R11 545,WhatsApp
+MSG009308,2025-10-22 21:38:00,2025-10-22,Rep 98,REP098,Middelburg,Mpumalanga,"Hi, Middelburg: units=9, rev=R15,836",WhatsApp
+MSG011359,2025-11-10 19:13:00,2025-11-10,Rep 8,REP008,Gateway,KZN,Gateway 0 units 0,WhatsApp
+MSG012090,2025-11-16 19:18:00,2025-11-16,Rep 87,REP087,Claremont,Western Cape,"Hi, Claremont: unit=17, rev=105372",WhatsApp
+MSG004276,2025-09-08 20:01:00,2025-09-08,Rep 10,REP010,Mall of Africa,Gauteng,"Hi, Mall of Africa: units=4, revenue=R8,397",WhatsApp
+MSG006452,2025-09-27 22:44:00,2025-09-27,Rep 51,REP051,Sandton City,Gauteng,"Hi, Sandton City: u=0, rev=R0",WhatsApp
+MSG012973,2025-11-24 17:20:00,2025-11-24,Rep 58,REP058,Secunda,Mpumalanga,"Sales update Secunda -> 6 unit, rev R10,915",WhatsApp
+MSG011708,2025-11-13 17:32:00,2025-11-13,Rep 29,,Soweto,Gauteng,"Hi, Soweto - unit=17, revenue=R 38,938",WhatsApp
+MSG002839,2025-08-27 07:39:00,2025-08-26,Rep 24,REP024,Mall of Africa,Gauteng,Mall of Africa - R8 361 and 5 unit,WhatsApp
+MSG013129,2025-11-25 18:55:00,2025-11-25,Rep 104,REP104,Bloemfontein,Free State,Bloemfontein ✅ 6 units ✅ R14274,WhatsApp
+MSG003713,2025-09-03 20:11:00,2025-09-03,Rep 14,REP014,Sandton City,Gauteng,Daily sales Sandton City: 0 (units) / rev R 0,WhatsApp
+MSG009328,2025-10-22 20:53:00,2025-10-22,Rep 120,,Sandton City,Gauteng,Daily sales Sandton City - 12 (units) / revenue 23.9k,WhatsApp
+MSG009872,2025-10-27 17:59:00,2025-10-27,Rep 115,,Menlyn,Gauteng,"Hi, Menlyn: unit=7, sales=R 14,408",WhatsApp
+MSG007345,2025-10-05 17:22:00,2025-10-05,Rep 58,REP058,Secunda,Mpumalanga,"Secunda: R 6,474 and 4 units",WhatsApp
+MSG010658,2025-11-03 22:36:00,2025-11-03,Rep 112,REP112,Bedfordview,Gauteng,"Bedfordview ✅ 5 unit ✅ R8,958",WhatsApp
+MSG006050,2025-09-23 16:12:00,2025-09-23,Rep 116,REP116,George,Western Cape,George: 8036 and 5 units,WhatsApp
+MSG009039,2025-10-20 19:06:00,2025-10-20,Rep 47,REP047,Soweto,Gauteng,"Sales update Soweto -> 5 units, sales R7710",WhatsApp
+MSG007362,2025-10-05 18:59:00,2025-10-05,Rep 74,REP074,Gateway,KZN,"Hi, Gateway: unit=8, revenue=R14,895",WhatsApp
+MSG000483,2025-08-05 17:57:00,2025-08-05,Rep 29,REP029,Soweto,Gauteng,Soweto 12 units R22229,WhatsApp
+MSG012311,2025-11-18 19:44:00,2025-11-18,Rep 83,REP083,Secunda,Mpumalanga,"Sales update Secunda -> 9 unit, rev R25,431",WhatsApp
+MSG004693,2025-09-11 17:43:00,2025-09-11,Rep 94,REP094,Pavilion,KZN,"Pavilion ✅ 12 units ✅ R26,934",WhatsApp
+MSG007203,2025-10-04 18:12:00,2025-10-04,Rep 27,REP027,Pietermaritzburg,KZN,Daily sales Pietermaritzburg: 17 (unit) / revenue R16 198,WhatsApp
+MSG006352,2025-09-26 17:49:00,2025-09-26,Rep 71,REP071,Kempton Park,Gauteng,Daily sales Kempton Park: 8 (unit) / sales 10.7k,WhatsApp
+MSG002909,2025-08-26 16:41:00,2025-08-26,Rep 95,REP095,Bloemfontein,Free State,"Hi, Bloemfontein: units=5, sales=R 7,482",WhatsApp
+MSG013157,2025-11-26 17:03:00,2025-11-26,Rep 13,REP013,Fourways,Gauteng,"Fourways ✅ 7 units ✅ R 13,470",WhatsApp
+MSG005078,2025-09-15 19:18:00,2025-09-15,Rep 14,REP014,Sandton City,Gauteng,"Sandton City ✅ 7 unit ✅ R11,331",WhatsApp
+MSG012818,2025-11-23 18:16:00,2025-11-23,Rep 8,REP008,Gateway,KZN,"Sales update Gateway -> 2 unit, revenue 4605",WhatsApp
+MSG005821,2025-09-21 18:14:00,2025-09-21,Rep 107,REP107,Mall of Africa,Gauteng,Mall of Africa ✅ 2 u ✅ 2422,WhatsApp
+MSG003368,2025-08-30 17:54:00,2025-08-30,Rep 112,REP112,Bedfordview,Gauteng,"Bedfordview: R5,849 and 3 u",WhatsApp
+MSG008574,2025-10-16 18:15:00,2025-10-16,Rep 28,REP028,Claremont,Western Cape,Claremont ✅ 7 u ✅ 13335,WhatsApp
+MSG012730,2025-11-23 08:56:00,2025-11-22,Rep 38,,Pavilion,KZN,"Pavilion ✅ 7 u ✅ R 12,331",WhatsApp
+MSG002608,2025-08-24 18:51:00,2025-08-24,Rep 22,REP022,Rosebank,Gauteng,Rosebank - unit 9 | sales R15 829,WhatsApp
+MSG001159,2025-08-11 17:53:00,2025-08-11,Rep 28,REP028,Claremont,Western Cape,Daily sales Claremont: 5 (u) / sales R9853,WhatsApp
+MSG009505,2025-10-24 18:48:00,2025-10-24,Rep 75,REP075,Durban CBD,KZN,"Hi, Durban CBD: u=6, rev=R12275",WhatsApp
+MSG005959,2025-09-23 18:27:00,2025-09-23,Rep 19,REP019,Kempton Park,Gauteng,"Hi, Kempton Park: units=4, sales=7815",WhatsApp
+MSG007013,2025-10-02 20:19:00,2025-10-02,Rep 62,REP062,Sandton City,Gauteng,Sandton City: 19866 and 15 unit,WhatsApp
+MSG004650,2025-09-11 18:42:00,2025-09-11,Rep 51,REP051,Sandton City,Gauteng,Sandton City - u 18 | rev 40074,WhatsApp
+MSG004490,2025-09-09 15:15:00,2025-09-09,Rep 113,REP113,Clearwater,Gauteng,Clearwater: R18 027 and 8 u,WhatsApp
+MSG011886,2025-11-14 18:18:00,2025-11-14,Rep 106,REP106,Somerset West,Western Cape,"Hi, Somerset West: units=8, revenue=15779",WhatsApp
+MSG001771,2025-08-16 18:43:00,2025-08-16,Rep 83,REP083,Secunda,Mpumalanga,"Hi, Secunda - units=6, rev=11303",WhatsApp
+MSG000570,2025-08-05 19:52:00,2025-08-05,Rep 119,REP119,Centurion,Gauteng,Daily sales Centurion: 5 (units) / rev R8 957,WhatsApp
+MSG000891,2025-08-08 17:33:00,2025-08-08,Rep 99,REP099,Vanderbijlpark,Gauteng,Vanderbijlpark 6 u 12634,WhatsApp
+MSG008117,2025-10-12 17:46:00,2025-10-12,Rep 24,REP024,Mall of Africa,Gauteng,Mall of Africa 1 units R2 511,WhatsApp
+MSG013252,2025-11-26 20:21:00,2025-11-26,Rep 115,REP115,Menlyn,Gauteng,Menlyn: R10521 and 7 u,WhatsApp
+MSG009244,2025-10-22 17:19:00,2025-10-22,Rep 27,REP027,Pietermaritzburg,KZN,Pietermaritzburg 3 u R5 850,WhatsApp
+MSG002496,2025-08-23 18:33:00,2025-08-23,Rep 26,REP026,Middelburg,Mpumalanga,Middelburg ✅ 7 unit ✅ R 10 766,WhatsApp
+MSG008264,2025-10-13 17:42:00,2025-10-13,Rep 61,REP061,Durban CBD,KZN,Durban CBD - units 7 | sales 16.5k,WhatsApp
+MSG001892,2025-08-17 17:43:00,2025-08-17,Rep 88,REP088,George,Western Cape,George - u 5 | sales 5010,WhatsApp
+MSG010047,2025-10-29 17:24:00,2025-10-29,Rep 61,REP061,Durban CBD,KZN,Durban CBD 6 u 7699,WhatsApp
+MSG003835,2025-09-04 16:08:00,2025-09-04,Rep 23,REP023,Mall of Africa,Gauteng,"Mall of Africa 10 u R20,990",WhatsApp
+MSG001152,2025-08-11 15:12:00,2025-08-11,Rep 18,REP018,Soweto,Gauteng,"Sales update Soweto -> 9 u, sales R 22,587",WhatsApp
+MSG009348,2025-10-23 18:41:00,2025-10-23,Rep 23,REP023,Mall of Africa,Gauteng,Mall of Africa - u 9 | sales R21941,WhatsApp
+MSG005718,2025-09-21 18:20:00,2025-09-20,Rep 2,REP002,Vanderbijlpark,Gauteng,"Vanderbijlpark: R15,019 and 8 unit",WhatsApp
+MSG003987,2025-09-05 15:42:00,2025-09-05,Rep 66,REP066,Cornubia,KZN,"Daily sales Cornubia: 4 (unit) / revenue R8,530",WhatsApp
+MSG004712,2025-09-11 21:40:00,2025-09-11,Rep 113,REP113,Clearwater,Gauteng,"Clearwater - R4,065 and 2 u",WhatsApp
+MSG010503,2025-11-02 20:23:00,2025-11-02,Rep 67,REP067,Pavilion,KZN,Pavilion: R13 073 and 9 units,WhatsApp
+MSG007691,2025-10-08 19:44:00,2025-10-07,Rep 56,REP056,V&A Waterfront,Western Cape,V&A Waterfront ✅ 9 u ✅ 14862,WhatsApp
+MSG001817,2025-08-18 07:10:00,2025-08-17,Rep 11,REP011,Menlyn,Gauteng,Menlyn 11 unit R21862,WhatsApp
+MSG013185,2025-11-26 17:28:00,2025-11-26,Rep 41,REP041,Middelburg,Mpumalanga,"Middelburg 6 units R9,522",WhatsApp
+MSG001207,2025-08-11 17:59:00,2025-08-11,Rep 75,REP075,Durban CBD,KZN,"Sales update Durban CBD -> 0 unit, rev 0",WhatsApp
+MSG002172,2025-08-20 18:44:00,2025-08-20,Rep 34,REP034,Bedfordview,Gauteng,Bedfordview: 1212 and 1 units,WhatsApp
+MSG012205,2025-11-17 20:42:00,2025-11-17,Rep 91,REP091,Randburg,Gauteng,"Randburg: R 1,859 and 1 units",WhatsApp
+MSG006036,2025-09-24 09:33:00,2025-09-23,Rep 102,REP102,V&A Waterfront,Western Cape,V&A Waterfront - units 0 | sales 0,WhatsApp
+MSG008728,2025-10-17 16:12:00,2025-10-17,Rep 71,REP071,Kempton Park,Gauteng,Kempton Park ✅ 10 unit ✅ R21 022,WhatsApp
+MSG004790,2025-09-12 17:38:00,2025-09-12,Rep 70,REP070,George,Western Cape,"George ✅ 6 units ✅ R 8,396",WhatsApp
+MSG012018,2025-11-16 20:32:00,2025-11-16,Rep 9,REP009,Somerset West,Western Cape,Somerset West ✅ 5 u ✅ 7647,WhatsApp
+MSG012522,2025-11-20 19:47:00,2025-11-20,Rep 61,REP061,Durban CBD,KZN,Durban CBD: 30497 and 14 unit,WhatsApp
+MSG008050,2025-10-11 22:42:00,2025-10-11,Rep 66,REP066,Cornubia,KZN,Cornubia - 36.6k and 21 unit,WhatsApp
+MSG007530,2025-10-07 17:56:00,2025-10-07,Rep 8,REP008,Gateway,KZN,Gateway ✅ 2 u ✅ 4516,WhatsApp
+MSG001262,2025-08-12 17:40:00,2025-08-12,Rep 20,,Mall of Africa,Gauteng,"Mall of Africa: R17,672 and 9 units",WhatsApp
+MSG007656,2025-10-08 20:28:00,2025-10-08,Rep 22,REP022,Rosebank,Gauteng,Rosebank ✅ 12 u ✅ 14098,WhatsApp
+MSG002939,2025-08-27 17:51:00,2025-08-27,Rep 5,REP005,Canal Walk,Western Cape,Canal Walk 1 u R2 352,WhatsApp
+MSG001662,2025-08-15 17:43:00,2025-08-15,Rep 83,REP083,Secunda,Mpumalanga,"Daily sales Secunda: 4 (units) / rev R 8,053",WhatsApp
+MSG000358,2025-08-04 18:28:00,2025-08-04,Rep 24,REP024,Mall of Africa,Gauteng,Mall of Africa ✅ 5 u ✅ 6967,WhatsApp
+MSG006383,2025-09-27 09:51:00,2025-09-26,Rep 103,REP103,Richards Bay,KZN,"Sales update Richards Bay -> 12 u, sales R22,153",WhatsApp
+MSG007356,2025-10-05 18:17:00,2025-10-05,Rep 68,REP068,Bedfordview,Gauteng,"Sales update Bedfordview -> 4 unit, revenue R 7,157",WhatsApp
+MSG010934,2025-11-06 19:34:00,2025-11-06,Rep 29,REP029,Soweto,Gauteng,Daily sales Soweto: 13 (units) / rev R27 722,WhatsApp
+MSG001579,2025-08-14 19:30:00,2025-08-14,Rep 116,REP116,George,Western Cape,"Daily sales George: 7 (units) / rev R8,977",WhatsApp
+MSG009710,2025-10-26 15:06:00,2025-10-26,Rep 57,REP057,Secunda,Mpumalanga,"Daily sales Secunda: 12 (units) / sales R 17,806",WhatsApp
+MSG011818,2025-11-14 17:24:00,2025-11-14,Rep 30,REP030,Randburg,Gauteng,"Hi, Randburg: unit=4, rev=R9,087",WhatsApp
+MSG003108,2025-08-28 18:16:00,2025-08-28,Rep 70,REP070,George,Western Cape,"George - u 4 | rev R8,687",WhatsApp
+MSG004006,2025-09-05 18:59:00,2025-09-05,Rep 84,REP084,Gateway,KZN,Gateway: 11.4k and 5 units,WhatsApp
+MSG002853,2025-08-27 09:43:00,2025-08-26,Rep 39,REP039,Stellenbosch,Western Cape,Daily sales Stellenbosch: 6 (unit) / revenue 7.0k,WhatsApp
+MSG002746,2025-08-25 15:44:00,2025-08-25,Rep 45,,Cornubia,KZN,Cornubia 5 units 8.7k,WhatsApp
+MSG001447,2025-08-13 18:31:00,2025-08-13,Rep 91,REP091,Randburg,Gauteng,Randburg 1 units R2239,WhatsApp
+MSG000721,2025-08-07 21:36:00,2025-08-07,Rep 36,REP036,Umlanga,KZN,"Umlanga ✅ 17 u ✅ R 19,965",WhatsApp
+MSG011893,2025-11-14 16:44:00,2025-11-14,Rep 113,REP113,Clearwater,Gauteng,"Hi, Clearwater: units=5, rev=R14 133",WhatsApp
+MSG006474,2025-09-27 17:33:00,2025-09-27,Rep 74,REP074,Gateway,KZN,"Gateway 7 units R 12,954",WhatsApp
+MSG011404,2025-11-10 18:58:00,2025-11-10,Rep 59,REP059,George,Western Cape,George ✅ 8 unit ✅ 13488,WhatsApp
+MSG003760,2025-09-03 17:32:00,2025-09-03,Rep 62,REP062,Sandton City,Gauteng,"Sales update Sandton City -> 18 units, rev R36 643",WhatsApp
+MSG010567,2025-11-03 18:07:00,2025-11-03,Rep 17,REP017,Somerset West,Western Cape,Somerset West 13 unit 21.6k,WhatsApp
+MSG000327,2025-08-03 17:11:00,2025-08-03,Rep 112,REP112,Bedfordview,Gauteng,"Hi, Bedfordview: u=10, sales=R18,415",WhatsApp
+MSG007965,2025-10-10 16:50:00,2025-10-10,Rep 104,REP104,Bloemfontein,Free State,"Hi, Bloemfontein: u=11, rev=R 26,489",WhatsApp
+MSG001410,2025-08-13 17:04:00,2025-08-13,Rep 50,REP050,Pavilion,KZN,Pavilion: R17 742 and 9 unit,WhatsApp
+MSG002229,2025-08-20 17:12:00,2025-08-20,Rep 93,REP093,Centurion,Gauteng,"Hi, Centurion: unit=7, revenue=R12,793",WhatsApp
+MSG009161,2025-10-21 21:08:00,2025-10-21,Rep 57,REP057,Secunda,Mpumalanga,Secunda 5 u 10356,WhatsApp
+MSG011196,2025-11-08 17:43:00,2025-11-08,Rep 66,REP066,Cornubia,KZN,Daily sales Cornubia: 8 (unit) / sales 19057,WhatsApp
+MSG003608,2025-09-02 18:28:00,2025-09-02,Rep 20,REP020,Mall of Africa,Gauteng,"Sales update Mall of Africa -> 2 u, sales 3630",WhatsApp
+MSG011548,2025-11-11 18:00:00,2025-11-11,Rep 102,REP102,V&A Waterfront,Western Cape,V&A Waterfront 6 u R11 381,WhatsApp
+MSG010287,2025-10-31 18:48:00,2025-10-31,Rep 78,REP078,Menlyn,Gauteng,Menlyn: 5.0k and 5 u,WhatsApp
+MSG012179,2025-11-17 20:25:00,2025-11-17,Rep 64,REP064,Richards Bay,KZN,Richards Bay - unit 4 | sales R4971,WhatsApp
+MSG011701,2025-11-13 18:24:00,2025-11-13,Rep 22,REP022,Rosebank,Gauteng,"Hi, Rosebank: unit=1, revenue=1.4k",WhatsApp
+MSG000728,2025-08-07 17:04:00,2025-08-07,Rep 42,REP042,Menlyn,Gauteng,"Hi, Menlyn: units=5, sales=9745",WhatsApp
+MSG013023,2025-11-24 18:52:00,2025-11-24,Rep 114,REP114,Cavendish,Western Cape,"Sales update Cavendish -> 18 u, revenue 32692",WhatsApp
+MSG004206,2025-09-07 19:38:00,2025-09-07,Rep 56,REP056,V&A Waterfront,Western Cape,V&A Waterfront: R13248 and 5 u,WhatsApp
+MSG005640,2025-09-20 19:36:00,2025-09-20,Rep 33,REP033,Eastgate,Gauteng,"Hi, Eastgate: u=11, rev=23883",WhatsApp
+MSG000047,2025-08-01 20:36:00,2025-08-01,Rep 48,,Fourways,Gauteng,Fourways: 12.8k and 7 u,WhatsApp
+MSG009542,2025-10-24 16:53:00,2025-10-24,Rep 113,REP113,Clearwater,Gauteng,Clearwater 4 units 6.7k,WhatsApp
+MSG002020,2025-08-19 09:50:00,2025-08-18,Rep 110,REP110,Vanderbijlpark,Gauteng,"Sales update Vanderbijlpark -> 7 unit, sales R12,651",WhatsApp
+MSG012245,2025-11-18 20:34:00,2025-11-18,Rep 15,REP015,Cavendish,Western Cape,"Cavendish - units 2 | rev R 5,225",WhatsApp
+MSG001454,2025-08-13 19:40:00,2025-08-13,Rep 99,REP099,Vanderbijlpark,Gauteng,Vanderbijlpark - unit 12 | sales R17 561,WhatsApp
+MSG006789,2025-10-01 09:53:00,2025-09-30,Rep 56,REP056,V&A Waterfront,Western Cape,V&A Waterfront 2 unit 3009,WhatsApp
+MSG009234,2025-10-22 21:20:00,2025-10-21,Rep 15,REP015,Cavendish,Western Cape,"Cavendish: R5,240 and 4 u",WhatsApp
+MSG004432,2025-09-09 16:08:00,2025-09-09,Rep 48,REP048,Fourways,Gauteng,Fourways 7 u R14 856,WhatsApp
+MSG012151,2025-11-17 18:57:00,2025-11-17,Rep 31,REP031,Durban CBD,KZN,Durban CBD - units 1 | sales R1 758,WhatsApp
+MSG011395,2025-11-10 18:24:00,2025-11-10,Rep 50,,Pavilion,KZN,"Sales update Pavilion -> 9 u, revenue R 16,558",WhatsApp
+MSG005719,2025-09-21 17:03:00,2025-09-21,Rep 3,REP003,Cavendish,Western Cape,Cavendish - u 0 | revenue R0,WhatsApp
+MSG005030,2025-09-14 18:10:00,2025-09-14,Rep 84,,Gateway,KZN,"Gateway 8 units R12,338",WhatsApp
+MSG004051,2025-09-07 07:03:00,2025-09-06,Rep 12,REP012,Umlanga,KZN,"Sales update Umlanga -> 7 unit, sales 14.2k",WhatsApp
+MSG007882,2025-10-10 17:30:00,2025-10-10,Rep 18,REP018,Soweto,Gauteng,"Sales update Soweto -> 5 unit, sales 7760",WhatsApp
+MSG007511,2025-10-07 08:13:00,2025-10-06,Rep 105,REP105,Gateway,KZN,"Hi, Gateway: u=2, rev=3806",WhatsApp
+MSG005090,2025-09-15 20:39:00,2025-09-15,Rep 25,REP025,Richards Bay,KZN,Daily sales Richards Bay: 8 (u) / revenue 16518,WhatsApp
+MSG007157,2025-10-03 18:16:00,2025-10-03,Rep 98,REP098,Middelburg,Mpumalanga,Middelburg: 14817 and 7 u,WhatsApp
+MSG012666,2025-11-22 08:16:00,2025-11-21,Rep 90,REP090,V&A Waterfront,Western Cape,V&A Waterfront: 18.4k and 8 unit,WhatsApp
+MSG010489,2025-11-02 17:01:00,2025-11-02,Rep 54,REP054,Stellenbosch,Western Cape,"Sales update Stellenbosch -> 5 units, sales 9.3k",WhatsApp
+MSG004481,2025-09-09 17:21:00,2025-09-09,Rep 104,REP104,Bloemfontein,Free State,Bloemfontein: 6.9k and 5 units,WhatsApp
+MSG007938,2025-10-10 18:27:00,2025-10-10,Rep 77,,Kempton Park,Gauteng,Daily sales Kempton Park: 4 (unit) / revenue R6568,WhatsApp
+MSG009884,2025-10-28 20:43:00,2025-10-28,Rep 8,REP008,Gateway,KZN,Gateway - u 4 | rev R9 258,WhatsApp
+MSG006680,2025-09-29 19:02:00,2025-09-29,Rep 65,REP065,George,Western Cape,George 9 units 20785,WhatsApp
+MSG010062,2025-10-29 20:03:00,2025-10-29,Rep 77,REP077,Kempton Park,Gauteng,Kempton Park: 0 and 0 unit,WhatsApp
+MSG002984,2025-08-27 16:18:00,2025-08-27,Rep 53,REP053,Randburg,Gauteng,"Sales update Randburg -> 0 units, sales 0",WhatsApp
+MSG007395,2025-10-06 07:32:00,2025-10-05,Rep 110,REP110,Vanderbijlpark,Gauteng,"Hi, Vanderbijlpark: units=19, rev=38213",WhatsApp
+MSG003244,2025-08-29 19:40:00,2025-08-29,Rep 95,REP095,Bloemfontein,Free State,Bloemfontein 4 units R8691,WhatsApp
+MSG006199,2025-09-25 18:11:00,2025-09-25,Rep 29,REP029,Soweto,Gauteng,Soweto 5 units R8 374,WhatsApp
+MSG004249,2025-09-07 19:06:00,2025-09-07,Rep 101,REP101,Bedfordview,Gauteng,"Bedfordview: R10,574 and 5 unit",WhatsApp
+MSG002473,2025-08-23 18:02:00,2025-08-23,Rep 3,REP003,Cavendish,Western Cape,"Daily sales Cavendish: 4 (unit) / revenue R 7,291",WhatsApp
+MSG006515,2025-09-27 18:01:00,2025-09-27,Rep 119,REP119,Centurion,Gauteng,Daily sales Centurion: 0 (unit) / revenue R 0,WhatsApp
+MSG010994,2025-11-06 17:34:00,2025-11-06,Rep 93,REP093,Centurion,Gauteng,Centurion 9 u 18.3k,WhatsApp
+MSG000061,2025-08-02 07:52:00,2025-08-01,Rep 61,REP061,Durban CBD,KZN,Durban CBD: R0 and 0 u,WhatsApp
+MSG012660,2025-11-21 19:05:00,2025-11-21,Rep 85,REP085,Vanderbijlpark,Gauteng,Vanderbijlpark - unit 7 | sales 11.0k,WhatsApp
+MSG009155,2025-10-21 19:08:00,2025-10-21,Rep 50,,Pavilion,KZN,Pavilion - unit 6 | rev 10405,WhatsApp
+MSG002195,2025-08-20 20:47:00,2025-08-19,Rep 58,REP058,Secunda,Mpumalanga,"Secunda 8 u R41,377",WhatsApp
+MSG008005,2025-10-11 18:05:00,2025-10-11,Rep 24,REP024,Mall of Africa,Gauteng,Mall of Africa ✅ 1 u ✅ 1932,WhatsApp
+MSG001637,2025-08-15 17:16:00,2025-08-15,Rep 56,REP056,V&A Waterfront,Western Cape,V&A Waterfront ✅ 9 units ✅ 20238,WhatsApp
+MSG010635,2025-11-03 16:56:00,2025-11-03,Rep 86,REP086,Gateway,KZN,Gateway - u 12 | rev R25 390,WhatsApp
+MSG003402,2025-08-31 18:42:00,2025-08-31,Rep 26,REP026,Middelburg,Mpumalanga,"Middelburg: R8,842 and 3 unit",WhatsApp
+MSG012300,2025-11-18 18:06:00,2025-11-18,Rep 72,REP072,Fourways,Gauteng,"Sales update Fourways -> 5 unit, rev R 5,522",WhatsApp
+MSG012495,2025-11-20 17:27:00,2025-11-20,Rep 32,REP032,Centurion,Gauteng,"Centurion ✅ 3 unit ✅ R 4,435",WhatsApp
+MSG012891,2025-11-23 18:47:00,2025-11-23,Rep 86,REP086,Gateway,KZN,"Gateway ✅ 9 unit ✅ R 13,713",WhatsApp
+MSG013332,2025-11-27 19:59:00,2025-11-27,Rep 84,REP084,Gateway,KZN,Gateway - u 7 | revenue R16178,WhatsApp
+MSG012598,2025-11-21 17:14:00,2025-11-21,Rep 22,REP022,Rosebank,Gauteng,"Sales update Rosebank -> 9 unit, rev R17,678",WhatsApp
+MSG013274,2025-11-28 08:46:00,2025-11-27,Rep 18,REP018,Soweto,Gauteng,Soweto - units 4 | revenue 5.9k,WhatsApp
+MSG011272,2025-11-09 17:02:00,2025-11-09,Rep 32,REP032,Centurion,Gauteng,Daily sales Centurion: 0 (u) / rev R0,WhatsApp
+MSG005403,2025-09-18 16:37:00,2025-09-18,Rep 15,REP015,Cavendish,Western Cape,Cavendish: 10883 and 8 u,WhatsApp
+MSG013318,2025-11-27 17:47:00,2025-11-27,Rep 69,REP069,Pietermaritzburg,KZN,"Pietermaritzburg 6 units R 13,172",WhatsApp
+MSG008399,2025-10-14 20:03:00,2025-10-14,Rep 83,REP083,Secunda,Mpumalanga,"Sales update Secunda -> 5 unit, revenue R9 329",WhatsApp
+MSG009694,2025-10-26 17:55:00,2025-10-26,Rep 39,REP039,Stellenbosch,Western Cape,"Stellenbosch: R 16,928 and 9 u",WhatsApp
+MSG004375,2025-09-08 17:07:00,2025-09-08,Rep 111,REP111,Somerset West,Western Cape,Somerset West - 9.6k and 7 unit,WhatsApp
+MSG002015,2025-08-18 21:42:00,2025-08-18,Rep 102,REP102,V&A Waterfront,Western Cape,V&A Waterfront - unit 4 | sales 5.8k,WhatsApp
+MSG011582,2025-11-12 16:28:00,2025-11-12,Rep 19,REP019,Kempton Park,Gauteng,"Hi, Kempton Park: u=6, revenue=R14 979",WhatsApp
+MSG001961,2025-08-18 17:44:00,2025-08-18,Rep 41,REP041,Middelburg,Mpumalanga,"Hi, Middelburg: u=5, sales=8779",WhatsApp
+MSG005953,2025-09-23 18:52:00,2025-09-23,Rep 14,REP014,Sandton City,Gauteng,"Sales update Sandton City -> 5 u, revenue R7,603",WhatsApp
+MSG002100,2025-08-19 17:26:00,2025-08-19,Rep 79,REP079,Canal Walk,Western Cape,Daily sales Canal Walk: 2 (unit) / revenue 3.7k,WhatsApp
+MSG013460,2025-11-28 17:11:00,2025-11-28,Rep 98,REP098,Middelburg,Mpumalanga,"Daily sales Middelburg: 6 (unit) / rev R 13,580",WhatsApp
+MSG013229,2025-11-26 19:01:00,2025-11-26,Rep 91,REP091,Randburg,Gauteng,Randburg - u 0 | revenue 0,WhatsApp
+MSG001921,2025-08-17 19:06:00,2025-08-17,Rep 118,REP118,Kempton Park,Gauteng,"Kempton Park - u 6 | sales R11,218",WhatsApp
+MSG007126,2025-10-03 17:52:00,2025-10-03,Rep 65,REP065,George,Western Cape,George 7 unit R13809,WhatsApp
+MSG005929,2025-09-22 18:53:00,2025-09-22,Rep 110,REP110,Vanderbijlpark,Gauteng,"Daily sales Vanderbijlpark - 9 (u) / sales R13,708",WhatsApp
+MSG002223,2025-08-20 19:51:00,2025-08-20,Rep 87,,Claremont,Western Cape,"Claremont 13 units R26,699",WhatsApp
+MSG004440,2025-09-09 21:51:00,2025-09-09,Rep 57,,Secunda,Mpumalanga,Secunda ✅ 3 u ✅ 5492,WhatsApp
+MSG000620,2025-08-06 18:36:00,2025-08-06,Rep 57,REP057,Secunda,Mpumalanga,"Sales update Secunda -> 3 u, sales 6556",WhatsApp
+MSG013442,2025-11-28 19:12:00,2025-11-28,Rep 81,REP081,Rosebank,Gauteng,"Rosebank - units 1 | sales R 1,910",WhatsApp
+MSG008111,2025-10-12 15:32:00,2025-10-12,Rep 16,REP016,Kroonstad,Free State,"Hi, Kroonstad: unit=5, rev=R9968",WhatsApp
+MSG008599,2025-10-16 17:42:00,2025-10-16,Rep 53,REP053,Randburg,Gauteng,"Hi, Randburg: u=2, rev=R2,766",WhatsApp
+MSG007777,2025-10-09 18:02:00,2025-10-09,Rep 30,REP030,Randburg,Gauteng,Daily sales Randburg: 6 (u) / revenue 10.6k,WhatsApp
+MSG000848,2025-08-08 18:44:00,2025-08-08,Rep 50,REP050,Pavilion,KZN,Pavilion 0 units R 0,WhatsApp
+MSG012755,2025-11-23 09:32:00,2025-11-22,Rep 62,REP062,Sandton City,Gauteng,"Sales update Sandton City -> 12 u, rev R16 474",WhatsApp
+MSG006154,2025-09-24 19:04:00,2025-09-24,Rep 104,REP104,Bloemfontein,Free State,"Sales update Bloemfontein -> 10 unit, revenue 23.8k",WhatsApp
+MSG006703,2025-09-29 19:58:00,2025-09-29,Rep 90,REP090,V&A Waterfront,Western Cape,"Hi, V&A Waterfront: u=10, sales=19.7k",WhatsApp
+MSG006380,2025-09-26 18:02:00,2025-09-26,Rep 100,REP100,Gateway,KZN,"Hi, Gateway: u=1, revenue=R1 660",WhatsApp
+MSG009313,2025-10-22 17:36:00,2025-10-22,Rep 103,REP103,Richards Bay,KZN,"Sales update Richards Bay -> 11 unit, revenue R 15,576",WhatsApp
+MSG004463,2025-09-09 20:24:00,2025-09-09,Rep 84,REP084,Gateway,KZN,Gateway: R5605 and 4 u,WhatsApp
+MSG008528,2025-10-15 17:16:00,2025-10-15,Rep 100,REP100,Gateway,KZN,Gateway 2 unit 4112,WhatsApp
+MSG003364,2025-08-30 19:50:00,2025-08-30,Rep 108,REP108,Kroonstad,Free State,"Kroonstad ✅ 6 u ✅ R 9,960",WhatsApp
+MSG012801,2025-11-22 17:48:00,2025-11-22,Rep 113,REP113,Clearwater,Gauteng,"Clearwater: R 21,933 and 14 u",WhatsApp
+MSG004392,2025-09-09 17:39:00,2025-09-09,Rep 8,REP008,Gateway,KZN,"Gateway: R 15,637 and 9 units",WhatsApp
+MSG006546,2025-09-28 20:16:00,2025-09-28,Rep 37,REP037,Soweto,Gauteng,Soweto: 34.7k and 16 units,WhatsApp
+MSG002766,2025-08-25 21:12:00,2025-08-25,Rep 67,REP067,Pavilion,KZN,"Pavilion ✅ 1 u ✅ R 1,487",WhatsApp
+MSG005248,2025-09-16 18:02:00,2025-09-16,Rep 83,REP083,Secunda,Mpumalanga,"Secunda: R6,393 and 3 unit",WhatsApp
+MSG004907,2025-09-13 17:01:00,2025-09-13,Rep 79,REP079,Canal Walk,Western Cape,"Daily sales Canal Walk: 2 (unit) / revenue R2,214",WhatsApp
+MSG012881,2025-11-23 17:20:00,2025-11-23,Rep 74,REP074,Gateway,KZN,"Gateway 3 unit R6,492",WhatsApp
+MSG001050,2025-08-10 19:42:00,2025-08-10,Rep 33,REP033,Eastgate,Gauteng,Eastgate ✅ 5 u ✅ 8.6k,WhatsApp
+MSG002012,2025-08-18 20:02:00,2025-08-18,Rep 99,REP099,Vanderbijlpark,Gauteng,Vanderbijlpark ✅ 0 u ✅ R0,WhatsApp
+MSG008368,2025-10-14 16:19:00,2025-10-14,Rep 51,,Sandton City,Gauteng,"Sales update Sandton City -> 12 units, sales R 27,653",WhatsApp
+MSG004254,2025-09-07 17:55:00,2025-09-07,Rep 105,REP105,Gateway,KZN,"Gateway ✅ 8 units ✅ R14,348",WhatsApp
+MSG012053,2025-11-16 18:26:00,2025-11-16,Rep 47,,Soweto,Gauteng,"Sales update Soweto -> 13 unit, rev R 20,026",WhatsApp
+MSG011216,2025-11-08 20:45:00,2025-11-08,Rep 90,REP090,V&A Waterfront,Western Cape,V&A Waterfront ✅ 3 u ✅ R7 800,WhatsApp
+MSG008095,2025-10-11 16:10:00,2025-10-11,Rep 119,REP119,Centurion,Gauteng,"Hi, Centurion: units=7, rev=R13067",WhatsApp
+MSG001310,2025-08-12 19:29:00,2025-08-12,Rep 70,REP070,George,Western Cape,"George ✅ 6 units ✅ R10,451",WhatsApp
+MSG013037,2025-11-25 19:43:00,2025-11-25,Rep 8,REP008,Gateway,KZN,Gateway: R8 264 and 5 units,WhatsApp
+MSG001998,2025-08-18 18:58:00,2025-08-18,Rep 80,REP080,Gateway,KZN,Daily sales Gateway: 0 (unit) / sales R0,WhatsApp
+MSG009411,2025-10-23 22:08:00,2025-10-23,Rep 87,,Claremont,Western Cape,"Sales update Claremont -> 14 u, rev 27.0k",WhatsApp
+MSG003612,2025-09-02 17:53:00,2025-09-02,Rep 27,,Pietermaritzburg,KZN,"Hi, Pietermaritzburg: units=4, sales=6.9k",WhatsApp
+MSG000885,2025-08-08 19:02:00,2025-08-08,Rep 94,REP094,Pavilion,KZN,"Pavilion - units 5 | sales R 10,275",WhatsApp
+MSG011400,2025-11-10 18:20:00,2025-11-10,Rep 55,REP055,Mall of Africa,Gauteng,Mall of Africa - u 0 | sales R 0,WhatsApp
+MSG009641,2025-10-25 17:01:00,2025-10-25,Rep 97,REP097,Randburg,Gauteng,"Sales update Randburg -> 2 unit, rev R3888",WhatsApp
+MSG001011,2025-08-09 19:19:00,2025-08-09,Rep 112,REP112,Bedfordview,Gauteng,Bedfordview - units 0 | rev 0,WhatsApp
+MSG009429,2025-10-24 06:07:00,2025-10-23,Rep 108,REP108,Kroonstad,Free State,Kroonstad 7 unit R13 852,WhatsApp
+MSG004212,2025-09-07 19:14:00,2025-09-07,Rep 62,REP062,Sandton City,Gauteng,"Daily sales Sandton City: 13 (units) / revenue R 19,957",WhatsApp
+MSG001609,2025-08-15 18:10:00,2025-08-15,Rep 22,REP022,Rosebank,Gauteng,Rosebank 9 units R16 089,WhatsApp
+MSG002217,2025-08-20 20:11:00,2025-08-20,Rep 81,REP081,Rosebank,Gauteng,"Daily sales Rosebank: 12 (unit) / sales R47,890",WhatsApp
+MSG006561,2025-09-28 16:37:00,2025-09-28,Rep 52,,Rosebank,Gauteng,"Rosebank - R 20,468 and 9 unit",WhatsApp
+MSG012941,2025-11-24 20:39:00,2025-11-23,Rep 25,REP025,Richards Bay,KZN,Richards Bay 6 units R13 175,WhatsApp
+MSG001654,2025-08-16 09:16:00,2025-08-15,Rep 76,REP076,Menlyn,Gauteng,"Sales update Menlyn -> 8 units, rev R15 068",WhatsApp
+MSG011889,2025-11-14 19:50:00,2025-11-14,Rep 109,REP109,Claremont,Western Cape,"Claremont 14 units R 25,112",WhatsApp
+MSG011665,2025-11-12 16:14:00,2025-11-12,Rep 105,REP105,Gateway,KZN,"Gateway 3 units R 5,020",WhatsApp
+MSG009551,2025-10-26 08:14:00,2025-10-24,Rep 3,REP003,Cavendish,Western Cape,"Sales update Cavendish -> 8 u, rev R9,781",WhatsApp
+MSG000616,2025-08-07 08:16:00,2025-08-06,Rep 53,REP053,Randburg,Gauteng,"Randburg: R8,956 and 6 units",WhatsApp
+MSG011539,2025-11-12 08:38:00,2025-11-11,Rep 91,,Randburg,Gauteng,"Randburg: R 10,097 and 5 u",WhatsApp
+MSG000699,2025-08-07 20:32:00,2025-08-07,Rep 16,REP016,Kroonstad,Free State,Kroonstad ✅ 6 units ✅ R12787,WhatsApp
+MSG012947,2025-11-24 16:25:00,2025-11-24,Rep 30,REP030,Randburg,Gauteng,Randburg ✅ 2 units ✅ R4281,WhatsApp
+MSG009408,2025-10-23 20:06:00,2025-10-23,Rep 83,REP083,Secunda,Mpumalanga,"Sales update Secunda -> 5 units, revenue R 11,525",WhatsApp
+MSG008004,2025-10-11 17:15:00,2025-10-11,Rep 23,REP023,Mall of Africa,Gauteng,"Mall of Africa 8 unit R15,023",WhatsApp
+MSG007376,2025-10-05 21:38:00,2025-10-05,Rep 91,REP091,Randburg,Gauteng,"Hi, Randburg: unit=5, rev=7788",WhatsApp
+MSG003471,2025-08-31 16:47:00,2025-08-31,Rep 111,REP111,Somerset West,Western Cape,"Hi, Somerset West: u=11, rev=28176",WhatsApp
+MSG002371,2025-08-22 23:29:00,2025-08-22,Rep 11,REP011,Menlyn,Gauteng,Menlyn - units 8 | revenue R14 454,WhatsApp
+MSG002696,2025-08-24 18:45:00,2025-08-24,Rep 112,REP112,Bedfordview,Gauteng,Bedfordview ✅ 0 u ✅ 0,WhatsApp
+MSG009680,2025-10-26 18:13:00,2025-10-26,Rep 21,REP021,Pavilion,KZN,Pavilion - u 11 | revenue R18 885,WhatsApp
+MSG007493,2025-10-06 18:49:00,2025-10-06,Rep 87,REP087,Claremont,Western Cape,"Daily sales Claremont: 12 (u) / revenue R 21,550",WhatsApp
+MSG013389,2025-11-28 17:52:00,2025-11-28,Rep 24,,Mall of Africa,Gauteng,Daily sales Mall of Africa - 5 (unit) / rev R9075,WhatsApp
+MSG002389,2025-08-22 16:31:00,2025-08-22,Rep 32,REP032,Centurion,Gauteng,"Sales update Centurion -> 10 u, rev R16 843",WhatsApp
+MSG002119,2025-08-19 18:19:00,2025-08-19,Rep 97,REP097,Randburg,Gauteng,"Hi, Randburg: unit=5, sales=R9,993",WhatsApp
+MSG004754,2025-09-12 18:23:00,2025-09-12,Rep 34,REP034,Bedfordview,Gauteng,Bedfordview: R13 462 and 7 u,WhatsApp
+MSG006425,2025-09-27 18:46:00,2025-09-27,Rep 25,REP025,Richards Bay,KZN,"Sales update Richards Bay -> 17 u, sales R 34,578",WhatsApp
+MSG005043,2025-09-14 16:05:00,2025-09-14,Rep 99,REP099,Vanderbijlpark,Gauteng,"Sales update Vanderbijlpark -> 7 units, sales 6945",WhatsApp
+MSG013342,2025-11-28 09:04:00,2025-11-27,Rep 94,REP094,Pavilion,KZN,Pavilion: R14 662 and 9 unit,WhatsApp
+MSG003410,2025-08-31 18:31:00,2025-08-31,Rep 37,REP037,Soweto,Gauteng,Soweto 9 u R18987,WhatsApp
+MSG009179,2025-10-21 20:08:00,2025-10-21,Rep 75,REP075,Durban CBD,KZN,Durban CBD: R17311 and 8 unit,WhatsApp
+MSG006818,2025-09-30 19:01:00,2025-09-30,Rep 90,REP090,V&A Waterfront,Western Cape,"Hi, V&A Waterfront: unit=15, revenue=28.1k",WhatsApp
+MSG003227,2025-08-29 17:24:00,2025-08-29,Rep 78,REP078,Menlyn,Gauteng,"Hi, Menlyn: unit=9, revenue=R22157",WhatsApp
+MSG004130,2025-09-06 20:59:00,2025-09-06,Rep 98,,Middelburg,Mpumalanga,Daily sales Middelburg: 6 (unit) / sales 12548,WhatsApp
+MSG008994,2025-10-19 20:46:00,2025-10-19,Rep 117,REP117,Durban CBD,KZN,Daily sales Durban CBD - 4 (units) / revenue 10594,WhatsApp
+MSG001842,2025-08-17 18:04:00,2025-08-17,Rep 37,REP037,Soweto,Gauteng,Soweto - units 15 | revenue 32467,WhatsApp
+MSG005038,2025-09-14 17:45:00,2025-09-14,Rep 94,REP094,Pavilion,KZN,Pavilion: 8372 and 6 u,WhatsApp
+MSG009289,2025-10-23 09:46:00,2025-10-22,Rep 76,,Menlyn,Gauteng,"Hi, Menlyn: u=5, revenue=R8 717",WhatsApp
+MSG006434,2025-09-27 18:23:00,2025-09-27,Rep 34,,Bedfordview,Gauteng,"Hi, Bedfordview: u=9, revenue=8502",WhatsApp
+MSG008179,2025-10-12 20:01:00,2025-10-12,Rep 90,REP090,V&A Waterfront,Western Cape,"V&A Waterfront - u 8 | revenue R 15,951",WhatsApp
+MSG012832,2025-11-23 18:26:00,2025-11-23,Rep 24,REP024,Mall of Africa,Gauteng,"Hi, Mall of Africa: units=3, rev=R3686",WhatsApp
+MSG009098,2025-10-20 17:41:00,2025-10-20,Rep 113,REP113,Clearwater,Gauteng,Clearwater - u 10 | rev 21.6k,WhatsApp
+MSG009467,2025-10-25 07:11:00,2025-10-24,Rep 30,REP030,Randburg,Gauteng,Randburg - unit 2 | sales 4.8k,WhatsApp
+MSG003014,2025-08-27 18:02:00,2025-08-27,Rep 87,REP087,Claremont,Western Cape,Claremont 15 u R61251,WhatsApp
+MSG012962,2025-11-24 19:27:00,2025-11-24,Rep 46,REP046,Rosebank,Gauteng,Rosebank ✅ 6 units ✅ 14.6k,WhatsApp
