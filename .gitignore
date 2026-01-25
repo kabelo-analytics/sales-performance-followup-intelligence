@@ -1,0 +1,20 @@
+# Ignore full datasets
+data/raw/*.csv
+data/interim/*.csv
+data/processed/*.csv
+
+# Allow small samples for GitHub
+!data/raw/*sample*.csv
+
+# Power BI files
+powerbi/*.pbix
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
