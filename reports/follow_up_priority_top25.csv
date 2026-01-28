@@ -1,0 +1,26 @@
+sale_date,region,store,rep_key,revenue,units_sold,submission_status,parse_status,priority_score
+2025-08-02,Western Cape,Cavendish,REP003,21900.0,0.0,next_day,missing_units,3
+2025-08-18,Gauteng,Mall of Africa,REP023,21000.0,0.0,next_day,missing_units,3
+2025-08-18,Western Cape,V&A Waterfront,REP056,19900.0,0.0,next_day,missing_units,3
+2025-10-11,Free State,Bloemfontein,REP089,19200.0,0.0,next_day,missing_units,3
+2025-09-16,Western Cape,Canal Walk,REP005,17700.0,0.0,next_day,missing_units,3
+2025-11-14,Free State,Kroonstad,REP016,17340.0,7.0,next_day,missing_units,3
+2025-08-31,KZN,Pavilion,REP067,17200.0,0.0,next_day,missing_units,3
+2025-11-26,Western Cape,Cavendish,REP114,15133.0,17.0,next_day,missing_revenue,3
+2025-09-13,KZN,Gateway,REP008,15000.0,0.0,next_day,missing_units,3
+2025-08-30,Gauteng,Mall of Africa,REP010,14500.0,0.0,next_day,missing_units,3
+2025-11-25,Gauteng,Randburg,REP053,12900.0,0.0,next_day,missing_units,3
+2025-08-22,KZN,Pietermaritzburg,REP069,11600.0,0.0,next_day,missing_units,3
+2025-10-21,Free State,Bloemfontein,REP095,11312.0,13.0,next_day,missing_revenue,3
+2025-10-01,KZN,Pietermaritzburg,REP082,11000.0,0.0,next_day,missing_units,3
+2025-11-05,Gauteng,Randburg,REP091,10220.0,6.0,next_day,missing_units,3
+2025-11-15,Western Cape,V&A Waterfront,REP056,10200.0,0.0,next_day,missing_units,3
+2025-09-23,KZN,Pavilion,REP038,9000.0,0.0,next_day,missing_units,3
+2025-08-09,Gauteng,Soweto,Rep 37,8600.0,0.0,next_day,missing_units,3
+2025-08-26,Western Cape,Stellenbosch,REP039,7000.0,0.0,next_day,missing_units,3
+2025-10-31,Gauteng,Menlyn,REP042,7000.0,0.0,next_day,missing_units,3
+2025-09-08,KZN,Gateway,Rep 84,4900.0,0.0,next_day,missing_units,3
+2025-09-03,Gauteng,Menlyn,REP042,1700.0,0.0,next_day,missing_units,3
+2025-08-31,Free State,Kroonstad,Rep 108,17.0,0.0,next_day,missing_units,3
+2025-08-19,Gauteng,Sandton City,REP062,16.0,31788.0,next_day,missing_revenue,3
+2025-11-18,Western Cape,Claremont,Rep 109,15.0,0.0,next_day,missing_units,3
